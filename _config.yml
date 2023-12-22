@@ -5,13 +5,13 @@ title: Qie Sima
 # subtitle:
 position: Ph.D. Candidate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
+# subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: Tsinghua University
 subaffiliation: Department of Computer Science 
 affiliation_link: https://www.tsinghua.edu.cn
 subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
+email: simaqie@gmail.com
+address: 30 Shuangqin Road, Beijing, CHINA 100084
 address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
 
@@ -41,9 +41,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
