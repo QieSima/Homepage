@@ -4,17 +4,24 @@ layout: homepage
 
 ## About Me
 
-I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
+Welcome! I am a graduate student from Department of Computer Science and Technology, Tsinghua University, fortunately supervised by [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/home). Prior to my graduate study, I recieved my B.Eng. degree from [Tsien's Excellence Education Program](https://www.hy.tsinghua.edu.cn/hyen/Academics/Lectures.htm), Tsinghua University.
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
-Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
+My research interest mainly focus on Embodied Intelligence, Robotic Manipulation and Multimodal learning. My previous works involves the navigation and mobile manipulation in embodied scenarios (AI2THOR, Habitat et al.). Currently, I am working in leveraging large pre-trained models in embodied intelligence. My ultimate goal is to discover generalizable representations for a wide range of robot skills.
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
+I am currently searching for Ph.D positions. If you have positions in related subjects, please feel free to contact me.
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+News
+======
+- **\[10/2023\]** Attend the IROS 2023 with 2 presented posters in Detroit!
+- **\[08/2023\]** Working as a research engineer in Lenovo Research.
+- **\[07/2023\]** Graduate from Tsinghua University with M.Sc degree in Computer Science.
+- **\[06/2023\]** Two papers are accepted by IROS 2023.
+
+Education
+======
+- Aug 2020 - Jun 2023 Master Student, Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/home)
+- Sep 2019 - Feb 2020 Visit Student, Department of Mechanical Engineering, Georgia Institue of Technology. Advisor: [Prof. Ye Zhao](https://sites.google.com/site/yezhaout)
+- Aug 2016 - Jun 2020 Bachelor Student, School of Aerospace Engineering, Tsinghua University. TEEP (Tsien's Excellence Education Program).
 
 
 ## Research Interests
@@ -24,31 +31,12 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
-
 
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/talks.md %}
-
-
-
-
-
-
-
-## Collaboration
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
-
 
 {% include_relative _includes/services.md %}
 
