@@ -1,4 +1,4 @@
-url: "simaqie.github.io "
+url: "qiesima.github.io/Homepage "
 # baseurl: /Hanchao-Zhang.github.io
 # Basic Information 
 title: Qie Sima
@@ -27,12 +27,12 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
 cv_link: assets/files/HanchaoZhangCV.pdf
 github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+# linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
+# twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
+avatar: ./assets/img/QieSima.png
 # logo: ./assets/img/logo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
