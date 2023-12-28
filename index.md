@@ -16,6 +16,7 @@ News
 - **\[08/2023\]** Working as a research engineer in Lenovo Research.
 - **\[07/2023\]** Graduate from Tsinghua University with M.Sc degree in Computer Science.
 - **\[06/2023\]** Two papers are accepted by IROS 2023.
+- **\[05/2023\]** Attend the ICRA 2023 with 1 presented poster in London!
 
 Education
 ======
@@ -25,10 +26,10 @@ Education
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Embodied Intelligence:** visual language navigation, mobile manipulation, scene understanding
+- **Lifelong Learning:** lifelong learning for robotics, knowlegde base for lifelong learning
+- **Pretrained Models for Robotics:** visual language foundation models for robotics, imitation learning for downstream tasks
+
 
 
 
