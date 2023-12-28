@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<!-- 
+ 
 <li>
 <div class="pub-row">
 
@@ -15,7 +15,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10160748">Embodied Referring Expression for Manipulation Question Answering in Interactive Environment</a></div>
     <div class="author"><strong>**Qie Sima**, Sinan Tan, Huaping Liu, Fuchun Sun, Weifeng Xu, Ling Fu</strong></div>
-    <div class="periodical"><em>2023 IEEE International Conference on Robotics and Automation (ICRA) <strong>(arXiv)</strong>, May. 2023.</em></div>
+    <div class="periodical"><em>2023 IEEE International Conference on Robotics and Automation (ICRA) <strong>(arXiv)</strong>, May. 2023. London, UK</em></div>
     <div class="links">
     <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/abstract/document/10160748" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -24,7 +24,7 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
 
 
 <li>
@@ -36,14 +36,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10342201">Exploring visual pre-training for robot manipulation: Datasets, models and methods</a></div>
+    <div class="author"><strong>Ya Jing, Xuelin Zhu, Xingbin Liu, **Qie Sima**, Taozheng Yang, Yunhai Feng, Tao Kong</strong></div>
+    <div class="periodical"><em>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <strong>(arXiv)</strong>, Oct. 2023. Detroit, USA</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+    <a href="https://explore-pretrain-robot.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10342201" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
