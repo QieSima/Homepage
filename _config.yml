@@ -9,7 +9,7 @@ position: Ph.D. Candidate
 affiliation: Tsinghua University
 subaffiliation: Department of Computer Science 
 affiliation_link: https://www.tsinghua.edu.cn
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
+subaffiliation_link: https://www.cs.tsinghua.edu.cn/csen/
 email: simaqie@gmail.com
 address: 30 Shuangqin Road, Beijing, CHINA 100084
 address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
@@ -27,14 +27,14 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?user=SswIhvMAAAAJ&hl=zh-CN
 cv_link: assets/files/QieSima_CV.pdf
 github_link: https://github.com/QieSima
-# linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
+linkedin: www.linkedin.com/in/qie-s-64251b170
 # twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/QieSima.png
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/favicon.png
+favicon: ./assets/img/Tsinghua.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
