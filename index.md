@@ -45,7 +45,7 @@ Education
 ## Resources
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*An Efficient Accelerated Proximal Gradient(APG) Method for Large Scale SVM*</a> by Qie Sima 
+- <a href="assets/files/APG.zip" target="_blank">*An Efficient Accelerated Proximal Gradient(APG) Method for Large Scale SVM*</a> by Qie Sima 
 
 
 
